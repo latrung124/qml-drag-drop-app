@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ScreenModuleItem.qml</file>
+        <file>ScreenModuleDetailedPanel.qml</file>
+        <file>AssignmentMode.qml</file>
+        <file>AssignmentItemRow.qml</file>
+    </qresource>
+</RCC>
